@@ -1,21 +1,21 @@
-# Vanilla-V2-Modpack-License-v1.0
+# VanillaV2 Modpack
 
 Vanilla V2 is a Minecraft: Java Edition modpack designed to enhance the core vanilla experience without changing its identity. It introduces quality-of-life improvements, subtle visual upgrades, and balanced additions while preserving the simplicity and feel of the original game.
 
-## ✨ Features
+## Features
 - Improved performance and smoother gameplay
 - Subtle visual and environmental enhancements
 - Quality-of-life improvements to UI and mechanics
 - Vanilla-friendly additions that feel natural to the game
 - Carefully balanced to avoid disrupting progression
 
-## 🎯 Purpose
+## Purpose
 The goal of Vanilla V2 is to provide a “better vanilla” experience - refining what already exists rather than replacing it. Everything included is intended to feel like a natural extension of Minecraft.
 
-## 📦 Installation
+## Installation
 
 ### Method 1: Modpack Launcher (Recommended)
-1. Download and install a launcher (CurseForge / Modrinth App)
+1. Download and install the launcher (Modrinth App)
 2. Import the provided modpack `.zip`
 3. Launch and play
 
