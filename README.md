@@ -10,7 +10,7 @@ Vanilla V2 is a Minecraft: Java Edition modpack designed to enhance the core van
 - Carefully balanced to avoid disrupting progression
 
 ## 🎯 Purpose
-The goal of Vanilla V2 is to provide a “better vanilla” experience—refining what already exists rather than replacing it. Everything included is intended to feel like a natural extension of Minecraft.
+The goal of Vanilla V2 is to provide a “better vanilla” experience - refining what already exists rather than replacing it. Everything included is intended to feel like a natural extension of Minecraft.
 
 ## 📦 Installation
 
