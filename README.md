@@ -1,4 +1,4 @@
-# VanillaV2 Modpack
+# Vanilla V2 Modpack
 
 Vanilla V2 is a Minecraft: Java Edition modpack designed to enhance the core vanilla experience without changing its identity. It introduces quality-of-life improvements, subtle visual upgrades, and balanced additions while preserving the simplicity and feel of the original game.
 
@@ -26,16 +26,16 @@ The goal of Vanilla V2 is to provide a “better vanilla” experience - refinin
 4. Copy the `config` folder if provided
 5. Launch Minecraft
 
-## 📋 Mod List
+## Mod List
 See `mods.md` or `modlist.txt` for a full list of included mods and credits.
 
-## ⚠️ Notes
+## Notes
 - This modpack is designed for Minecraft: Java Edition
 - Performance may vary depending on system specs
 - Always allocate enough RAM for best experience
 
-## 📜 License
+## License
 This project uses a custom license. See the `LICENSE` file for full details.
 
-## 🙌 Credits
+## Credits
 All mods, assets, and content belong to their respective creators. This modpack simply brings them together into a cohesive experience.
